@@ -1,5 +1,6 @@
 body {
 	color:#57DFFF;
+	font-family: Arial;
 }
 
 h1 {
@@ -14,6 +15,7 @@ h1 {
 #contact {
 	text-align: center;
 	font-size: 14px;
+
 }
 
 html {
