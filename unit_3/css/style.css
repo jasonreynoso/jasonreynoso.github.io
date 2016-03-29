@@ -1,11 +1,17 @@
 body {
-	color:#59DFFF;
+	color:#57DFFF;
 }
 
 h1 {
-	color:(255,133,124);
-}s
+	color:(0,0,124);
+	text-align: center;
+}
 
 #slogan {
 	font-style:italic;
+}
+
+#contact {
+	text-align: center;
+	font-size: 14px;
 }
