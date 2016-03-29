@@ -3,6 +3,10 @@ body {
 	font-family: Arial;
 }
 
+title {
+	Color: Green;
+}
+
 h1 {
 	color: green;
 	text-align: center;
