@@ -4,4 +4,8 @@ body {
 
 h1 {
 	color:(255,133,124);
+}s
+
+#slogan {
+	font-style:italic;
 }
