@@ -18,4 +18,5 @@ h1 {
 
 html {
 	background: url("https://images.unsplash.com/photo-1429277096327-11ee3b761c93?crop=entropy&fit=crop&fm=jpg&h=700&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1300");
+	background-size: cover;
 }
