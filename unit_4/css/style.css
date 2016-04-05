@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
-
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
 *, 
 *:before,
 *:after {
@@ -16,6 +16,7 @@ html {
 	background-size: cover;
 }
 header {
+	font-family: 'Permanent Marker', cursive;
 	height: 70vh;
 	position: relative;
   	top: 50%;
@@ -42,13 +43,14 @@ footer {
 }
 
 #slogan {
+	font-family: 'Permanent Marker', cursive;
 	font-style:italic;
 
 }
 
 #info {
 	flex: 1;
-	color:#99ffff;
+	color:#990000;
 }
 
 #contact {
