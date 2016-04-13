@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+*, 
+*:before,
+*:after {
+	margin: 0;
+	padding:0;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+html {
+	background: url("https://images.unsplash.com/photo-1429277096327-11ee3b761c93?crop=entropy&fit=crop&fm=jpg&h=700&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1300") no-repeat;
+	background-size: cover;
+}
+header {
+	background-color:  #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+	font-family: 'Permanent Marker', cursive;
+	height: 70vh;
+	position: relative;
+  	top: 50%;
+}
+nav {
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+body {
+	font-family: arial;
+	text-align: center;
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+h1 {
+	color: green;
+	text-align: center;
+}
+ul li {
+	list-style-type: circle;
+	list-style-position: inside;
+}
+aside {
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+article {
+	 background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+	font-family: 'Oswald', sans-serif;
+}
+section {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#slogan {
+	font-family: 'Permanent Marker', cursive;
+	font-style:italic;
+
+}
+
+#info {
+	flex: 1;
+	color:#990000;
+}
+
+#contact {
+	text-align: center;
+	font-size: 14px;
+	color: #99ffff;
+}
+
+
+
